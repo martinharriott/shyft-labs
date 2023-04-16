@@ -18,3 +18,6 @@ Run the frontend application by running the command: npm start. The frontend app
 
 
 The application was built with React.JS on the frontend, Node.JS, express.JS on the backend, and MongoDB for data persistence. 
+
+
+If there are any issues with building this project please send me an email at martin.roseharriott@gmail.com
